@@ -1,6 +1,13 @@
 # planets
 
-A new Flutter application.
+Uma aplicação para aprendizado do Hero animation.
+
+## Demonstração
+<p align="center">
+   <img src="https://github.com/thasciano/planets_flutter/blob/master/demo/planets.gif" width="200px" />
+   <img src="https://github.com/thasciano/planets_flutter/blob/master/demo/screen1.png" width="200px" />
+   <img src="https://github.com/thasciano/planets_flutter/blob/master/demo/screen2.png" width="200px" />
+</p>
 
 ## Getting Started
 
